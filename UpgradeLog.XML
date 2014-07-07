@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ShapeConnectors">
+</Property><Property Name="Solution File" Value="G:\backup\ShapeConnectors.sln">
+</Property><Property Name="User Options File" Value="G:\backup\ShapeConnectors.suo">
+</Property><Property Name="Date" Value="07 July 2014">
+</Property><Property Name="Time" Value="14:08">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ShapeConnectors.sln" Description="File successfully backed up as G:\backup\Backup1\ShapeConnectors.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ShapeConnectors.suo" Description="File successfully backed up as G:\backup\Backup1\ShapeConnectors.suo">
+</Event><Event ErrorLevel="0" Project="ShapeConnectors" Source="ShapeConnectors\ShapeConnectors.csproj" Description="Project file successfully backed up as G:\backup\Backup1\ShapeConnectors\ShapeConnectors.csproj">
+</Event><Event ErrorLevel="0" Project="ShapeConnectors" Source="ShapeConnectors\App.xaml.cs" Description="File successfully backed up as G:\backup\Backup1\ShapeConnectors\App.xaml.cs">
+</Event><Event ErrorLevel="0" Project="ShapeConnectors" Source="ShapeConnectors\Window1.xaml.cs" Description="File successfully backed up as G:\backup\Backup1\ShapeConnectors\Window1.xaml.cs">
+</Event><Event ErrorLevel="0" Project="ShapeConnectors" Source="ShapeConnectors\MyThumb.cs" Description="File successfully backed up as G:\backup\Backup1\ShapeConnectors\MyThumb.cs">
+</Event><Event ErrorLevel="0" Project="ShapeConnectors" Source="ShapeConnectors\Properties\AssemblyInfo.cs" Description="File successfully backed up as G:\backup\Backup1\ShapeConnectors\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ShapeConnectors" Source="ShapeConnectors\Properties\Resources.Designer.cs" Description="File successfully backed up as G:\backup\Backup1\ShapeConnectors\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ShapeConnectors" Source="ShapeConnectors\Properties\Settings.Designer.cs" Description="File successfully backed up as G:\backup\Backup1\ShapeConnectors\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ShapeConnectors" Source="ShapeConnectors\Properties\Settings.settings" Description="File successfully backed up as G:\backup\Backup1\ShapeConnectors\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ShapeConnectors" Source="ShapeConnectors\Properties\Resources.resx" Description="File successfully backed up as G:\backup\Backup1\ShapeConnectors\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ShapeConnectors" Source="ShapeConnectors\App.xaml" Description="File successfully backed up as G:\backup\Backup1\ShapeConnectors\App.xaml">
+</Event><Event ErrorLevel="0" Project="ShapeConnectors" Source="ShapeConnectors\Templates\BasicShape.xaml" Description="File successfully backed up as G:\backup\Backup1\ShapeConnectors\Templates\BasicShape.xaml">
+</Event><Event ErrorLevel="0" Project="ShapeConnectors" Source="ShapeConnectors\Window1.xaml" Description="File successfully backed up as G:\backup\Backup1\ShapeConnectors\Window1.xaml">
+</Event><Event ErrorLevel="0" Project="ShapeConnectors" Source="ShapeConnectors\ShapeConnectors.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ShapeConnectors" Source="ShapeConnectors\ShapeConnectors.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ShapeConnectors.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ShapeConnectors.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ShapeConnectors" Source="ShapeConnectors\ShapeConnectors.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

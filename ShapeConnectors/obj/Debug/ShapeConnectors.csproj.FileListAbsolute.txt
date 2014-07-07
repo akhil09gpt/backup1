@@ -1,0 +1,31 @@
+D:\Visual Studio 2008\Projects\ShapeConnectors\ShapeConnectors\bin\Debug\ShapeConnectors.exe
+D:\Visual Studio 2008\Projects\ShapeConnectors\ShapeConnectors\bin\Debug\ShapeConnectors.pdb
+D:\Visual Studio 2008\Projects\ShapeConnectors\ShapeConnectors\obj\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio 2008\Projects\ShapeConnectors\ShapeConnectors\obj\Debug\Window1.baml
+D:\Visual Studio 2008\Projects\ShapeConnectors\ShapeConnectors\obj\Debug\Window1.g.cs
+D:\Visual Studio 2008\Projects\ShapeConnectors\ShapeConnectors\obj\Debug\App.g.cs
+D:\Visual Studio 2008\Projects\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors_MarkupCompile.cache
+D:\Visual Studio 2008\Projects\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.g.resources
+D:\Visual Studio 2008\Projects\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.Properties.Resources.resources
+D:\Visual Studio 2008\Projects\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.csproj.GenerateResource.Cache
+D:\Visual Studio 2008\Projects\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.exe
+D:\Visual Studio 2008\Projects\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.pdb
+D:\Visual Studio 2008\Projects\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors_MarkupCompile.lref
+D:\Visual Studio 2008\Projects\ShapeConnectors\ShapeConnectors\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Visual Studio 2008\Projects\ShapeConnectors\ShapeConnectors\obj\Debug\Templates\BasicShape.baml
+D:\Visual Studio 2008\Projects\ShapeConnectors\ShapeConnectors\obj\Debug\App.baml
+G:\backup\ShapeConnectors\obj\Debug\ShapeConnectors.exe
+G:\backup\ShapeConnectors\obj\Debug\ShapeConnectors.pdb
+G:\backup\ShapeConnectors\bin\Debug\ShapeConnectors.exe
+G:\backup\ShapeConnectors\bin\Debug\ShapeConnectors.pdb
+G:\backup\ShapeConnectors\obj\Debug\Templates\BasicShape.baml
+G:\backup\ShapeConnectors\obj\Debug\App.baml
+G:\backup\ShapeConnectors\obj\Debug\Window1.g.cs
+G:\backup\ShapeConnectors\obj\Debug\App.g.cs
+G:\backup\ShapeConnectors\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\backup\ShapeConnectors\obj\Debug\ShapeConnectors_MarkupCompile.cache
+G:\backup\ShapeConnectors\obj\Debug\ShapeConnectors_MarkupCompile.lref
+G:\backup\ShapeConnectors\obj\Debug\Window1.baml
+G:\backup\ShapeConnectors\obj\Debug\ShapeConnectors.g.resources
+G:\backup\ShapeConnectors\obj\Debug\ShapeConnectors.Properties.Resources.resources
+G:\backup\ShapeConnectors\obj\Debug\ShapeConnectors.csproj.GenerateResource.Cache
